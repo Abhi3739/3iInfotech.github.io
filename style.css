@@ -1,0 +1,48 @@
+.navbar1 a{
+	color:wheat!important;
+}
+
+
+.navbar1{
+	background-color: orange;
+}
+.active a{
+	color: wheat!important;
+	background-color: orange!important;
+}
+.active a:hover{
+	color: white!important;
+	background-color: blue!important;
+}
+nav li{
+	border: 2px solid white;
+}
+.navbar-nav a:hover{
+	color: white!important;
+	background-color: blue!important;
+	border-top-color: red!important;
+}
+
+/*Carousel*/
+.marginCenter{
+	margin: auto!important;
+}
+.backgroundNon{
+	background-image: none!important;
+}
+
+
+/*Section 5*/
+.sect5{
+
+}
+.font-s36{
+	font-size: 36px;
+}
+.sect5 .row .row:hover{
+	background-color: #ecec1f;
+    color: white;
+    /* vertical-align: middle; */
+    /* height: 124px; */
+    box-shadow: 0 0 10px black;
+}
